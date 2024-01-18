@@ -1,5 +1,7 @@
 let listaDeNumeroSorteados = [];
-let numeroMaximo = 10;
+let numeroMaximo = parseInt(prompt('Antes de comerçamos, digite um número limite: '));
+numeroMaximo = isNaN(numeroMaximo) ? 10 : numeroMaximo;
+
 let numeroSecreto = gerarNumeroAleatorio(numeroMaximo);
 let tentativas = 1;
 
