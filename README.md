@@ -1,4 +1,4 @@
-# 🕹️ Tic Tac Toe - Projeto Prático
+# 🕹️ Guess The Number - Projeto Prático
 Este é um jogo simples de adivinhação de números, onde o objetivo é descobrir um número secreto gerado aleatoriamente.
 ![Alt text](image.png)
 ## 👾 Funcionalidades
